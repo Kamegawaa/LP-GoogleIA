@@ -1,0 +1,29 @@
+.animation1:hover,
+.animation2:hover,
+.animation3:hover,
+.animation4:hover{
+    animation-name: example;
+    animation-duration: 1s;
+    width: 100%;
+    .barra{
+        background-color: #ffff;
+        height: 6vw;
+        max-height: 90px;
+        animation-duration: 1s;
+        }
+    .title-link{
+        color: #ffff;
+        font-size: clamp(0.5em, 0vw + 1.7vw, 1.0em);
+        }
+    img.imagens-link{
+        background-image: url(http://127.0.0.1:5500/assts/google-mockup.png);
+    }    
+}  
+
+a{
+    height: 4vw;
+    width: 100%;
+    display: flex;
+    text-decoration: none;
+    align-items: center;
+}
