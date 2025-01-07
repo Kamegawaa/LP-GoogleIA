@@ -110,7 +110,7 @@ body{
     font-family: "Google Sans Display","Google Sans",Arial,Helvetica,sans-serif;
     color:#3c4043;
     padding: 0px;
-    margin: 10vw 0 8vw 0;
+    margin: 5rem 0 8vw 0;
 }
     h2.nomes{
     font-size: clamp(0.5em, 1.5vw + 2vw, 2em);
